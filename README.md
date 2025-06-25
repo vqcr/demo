@@ -1,2 +1,2 @@
 # demo
-Markdown tests
+[Markdown](https://www.markdowntutorial.com/) syntax tests.
